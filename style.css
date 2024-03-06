@@ -1,0 +1,33 @@
+.body {
+    width: 100vw;
+    height: 100vh;
+}
+.DivA {
+    background-color:#1e8c93; 
+    width: 400px; 
+    height: 400px;
+
+}
+.DivB {
+    background-color:#eb6765; 
+    width: 200px; 
+    height: 200px;
+
+}
+.ParagrafoC{
+    color:#888888; 
+    background-color: #8d1042;
+    font-weight: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-weight: bold;
+}
+.DivD {
+    width: 45vw;
+    height: 35vh;
+    background-color: rgb(52, 236, 123);
+}
+.DivE {
+    width: 10vw;
+    height: 15vh;
+    background-color: rgb(167, 98, 245);
+} 
